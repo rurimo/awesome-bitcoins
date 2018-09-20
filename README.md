@@ -1,5 +1,5 @@
-# awesome-bitcoins
-😎 awesome-list of bitcoins.
+# Awesome-bitcoins [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <br>
+😎 A curated list of bitcoin services.
 
 Coin | Description | Website | Github | Market | Language | Twitter
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -16,3 +16,8 @@ Cardano ADA | Cardano is home to the Ada cryptocurrency, which can be used to se
 IOTA | IOTA is a revolutionary new, next generation public distributed ledger that utilizes a novel invention, called a “Tangle”, at its core | https://www.iota.org/ | https://github.com/iotaledger/iri | BTC | Java | https://twitter.com/iotatoken |
 Ethereum Classic | Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality. | https://ethereumclassic.org/ | https://github.com/ethereumproject | BTC, ETH | Go | https://twitter.com/eth_classic |
 
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/) has waived all copyright and related or neighboring rights to this work.
